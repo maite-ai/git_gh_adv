@@ -1,3 +1,5 @@
 # Comandos de Git
 git log -> mostrar el historial de commits
 git status -> consultar el estado de cambios del repositorio local
+git add -> agrega los cambios al área de staging
+git commit -> confirma los cambios
