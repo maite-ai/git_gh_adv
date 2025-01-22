@@ -1,10 +1,9 @@
 # Repo forkeable
 
-¡Bienvenid@s al workshop de Git & Github 101!
+¡Bienvenid@s al workshop de Git & Github Avanzado!
 
 ## ¿Qué tienes que hacer?
 Sigue las instrucciones listadas en Learn para poder "forkear" este repo
 exitosamente.
-No te saltes ningún paso.
 
-> Este repo es parte del Workshop Git & Github 101.
+> Este repo es parte del Workshop Git & Github Avanzado.
