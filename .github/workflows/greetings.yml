@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "¡Bienvenido/a al repo de Git & GitHub Avanzado! 🎉 Tu issue nos ayuda a mejorar este recurso educativo. Pronto lo revisaremos."
+        pr-message: "¡Genial! 🚀 Gracias por contribuir a este repo. Tu PR ayuda a que más personas aprendan Git & GitHub de forma práctica. Lo revisaremos pronto."
