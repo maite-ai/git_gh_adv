@@ -1,13 +1,31 @@
-# Repositorio comunitario
+# 🚀 Workshop Git & GitHub Avanzado
 
-¡Bienvenid@s al workshop de Git & GitHub Avanzado!
+¡Bienvenid@ al repositorio de práctica! Este espacio está diseñado para potenciar tus habilidades en Git y GitHub.
 
-## ¿Cuál es la finalidad de este repositorio?
-La idea principal es ejercitar el músculo del `trabajo colaborativo`.
+## 🎯 Objetivo
+Fortalecer el **trabajo colaborativo** a través de ejercicios prácticos que simulan escenarios reales de desarrollo.
 
-## ¿Qué tienes que hacer?
-Sigue las instrucciones listadas en la plataforma Learn para poder clonar este
-repo y completar los desafíos propuestos de manera exitosa.
-Recomiendo no saltarse ningún paso.
+## 💻 ¿Cómo participar?
+1. Clona este repositorio
+2. Sigue las instrucciones en la plataforma Learn
+3. Completa los desafíos propuestos
+4. ¡Contribuye y aprende!
 
-> Este repo es parte del Workshop Git & Github Avanzado.
+## 🛠️ Estructura del repo
+.
+├── css/
+│   └── style.css
+├── db/
+│   └── employees.sql
+├── comandos_git.txt
+├── index.html
+└── README.md
+
+## 🤝 Contribución
+¡Las contribuciones son bienvenidas! Cada PR es una oportunidad de aprendizaje.
+
+## ℹ️ Nota
+Este repositorio es parte del Workshop **Git & GitHub Avanzado**. Para consultas, puedes abrir un issue.
+
+---
+⭐ Si encuentras útil este recurso, ¡déjanos una estrella!
