@@ -12,6 +12,7 @@ Fortalecer el **trabajo colaborativo** a través de ejercicios prácticos que si
 4. ¡Contribuye y aprende!
 
 ## 🛠️ Estructura del repo
+```
 .
 ├── css/
 │   └── style.css
@@ -20,6 +21,7 @@ Fortalecer el **trabajo colaborativo** a través de ejercicios prácticos que si
 ├── comandos_git.txt
 ├── index.html
 └── README.md
+```
 
 ## 🤝 Contribución
 ¡Las contribuciones son bienvenidas! Cada PR es una oportunidad de aprendizaje.
